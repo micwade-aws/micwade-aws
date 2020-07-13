@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software development manager at AWS.  I've helped build 🔨 several large services within AWS to provide networking and storage services to EC2 customers.  These days I'm focused on the development of a new Machine Learning offering called [Inferentia](https://aws.amazon.com/machine-learning/inferentia/).  Inferentia is useful for inference, but you'll need the [AWS Neuron SDK](https://github.com/aws/aws-neuron-sdk).
+
+🤔 Want to help with [AWS Neuron SDK](https://github.com/aws/aws-neuron-sdk)? 
+📫 Cool.  Reach out or start by providing some feedback on the project.
+
+
 <!--
 **micwade-aws/micwade-aws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
